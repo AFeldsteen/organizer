@@ -1,0 +1,18 @@
+
+    *.doc 
+    *.docx
+    *.odt
+    *.pdf
+    *.rtf 
+    *.tex 
+    *.txt
+    *.wpd 
+    *.ods 
+    *.xls
+    *.xlsm 
+    *.xlsx
+    *.key 
+    *.odp
+    *.pps 
+    *.ppt 
+    *.pptx
