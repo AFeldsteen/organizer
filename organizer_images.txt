@@ -1,0 +1,12 @@
+
+    *.ai 
+    *.bmp 
+    *.gif 
+    *.ico 
+    *.jpeg 
+    *.png 
+    *.ps 
+    *.psd 
+    *.svg 
+    *.tif 
+    *.webp 
